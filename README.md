@@ -1,12 +1,11 @@
 # Hello, I'm Eder Valencia
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+[Brief Introduction]
 
-With solid technical experience, my curiosity to understand systems and passion for problem-solving guide me towards Cybersecurity. I channel this energy to protect digital environments and face its challenges.
+Engineer experienced in Linux/Windows system administration and technical support, transitioning into Cybersecurity. Committed to continuous learning and practical security application.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
