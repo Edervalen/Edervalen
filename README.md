@@ -1,6 +1,6 @@
 # Hello, I'm Eder Valencia
-<a href="https://www.linkedin.com/in/tu-nombre-de-usuario/" target="_blank" rel="noopener noreferrer">
-  <img src="ruta/a/tu/imagen/linkedin-logo.png" alt="www.linkedin.com/in/eder-valencia36" style="width: 32px; height: 32px;"> 
+<a href="https://www.linkedin.com/in/eder-valencia36" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Mi perfil de LinkedIn"/>
 </a>
 
 ## Introduction
